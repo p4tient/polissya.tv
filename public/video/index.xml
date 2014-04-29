@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Videos on Малинська телерадіостудія Полісся </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:80/video/index.xml</link>
+    
+    
+    
+    <updated>Fri, 11 Apr 2014 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Виступ Петра Порошенка в Малинському РБК</title>
+      <link>http://localhost/video/poroshenko-malyn-rbk</link>
+      <pubDate>Fri, 11 Apr 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost/video/poroshenko-malyn-rbk</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/92712027&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>За чисте довкілля Лісотехнікум</title>
+      <link>http://localhost/video/chyste-dovkillya</link>
+      <pubDate>Wed, 16 Apr 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost/video/chyste-dovkillya</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/93156461&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Благоустрій сіл</title>
+      <link>http://localhost/video/blagoustriy-sil</link>
+      <pubDate>Sun, 20 Apr 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost/video/blagoustriy-sil</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/93156460&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Єдинна країна Лісотехнікум</title>
+      <link>http://localhost/video/yedyna-krayina-lisotehnikum</link>
+      <pubDate>Thu, 10 Apr 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost/video/yedyna-krayina-lisotehnikum</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/93156462&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Не раз омріяне кохання Лісотехнікум</title>
+      <link>http://localhost/video/ne-raz-omriyane-kohannya-lisotehnikum</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost/video/ne-raz-omriyane-kohannya-lisotehnikum</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/93228754&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,11 @@
+{{ template "chrome/header.html" . }}
+<div class="logo">
+  <h1>Полісся</h1>
+  <h2>Малинська телерадіостудія</h2>
+</div>
+<main role="main">
+  {{ range first 10 .Data.Pages }}
+    {{ .Render "summary" }}
+  {{ end }}
+</main>
+{{ template "chrome/footer.html" . }}
