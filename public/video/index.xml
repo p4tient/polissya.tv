@@ -7,16 +7,42 @@
     
     
     
-    <updated>Wed, 07 May 2014 00:00:00 UTC</updated>
+    <updated>Thu, 05 Jun 2014 00:00:00 UTC</updated>
     
     <item>
-      <title>Творчий звіт Малинської школи мистецтв</title>
-      <link>http://localhost/video/tvorchyi-zvit-shkoly-mystetstv</link>
-      <pubDate>Wed, 07 May 2014 00:00:00 UTC</pubDate>
+      <title>Вітання Журналістам</title>
+      <link>http://localhost/video/vitannya-zhurnalistam</link>
+      <pubDate>Thu, 05 Jun 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost/video/tvorchyi-zvit-shkoly-mystetstv</guid>
+      <guid>http://localhost/video/vitannya-zhurnalistam</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/94403893&#34; width=&#34;600&#34;
+  &lt;iframe src=&#34;//player.vimeo.com/video/97426448&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Таланти твої, Малинщино</title>
+      <link>http://localhost/video/talanty-tvoyi-malynschino</link>
+      <pubDate>Mon, 02 Jun 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost/video/talanty-tvoyi-malynschino</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/97419218&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Веснянці — 50</title>
+      <link>http://localhost/video/vesnyantsi-50</link>
+      <pubDate>Mon, 02 Jun 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost/video/vesnyantsi-50</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/97419219&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
@@ -30,6 +56,19 @@
       <guid>http://localhost/video/chorno-bilyi-film-pro-malin</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
   &lt;iframe src=&#34;//player.vimeo.com/video/94403894&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Творчий звіт Малинської школи мистецтв</title>
+      <link>http://localhost/video/tvorchyi-zvit-shkoly-mystetstv</link>
+      <pubDate>Wed, 07 May 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost/video/tvorchyi-zvit-shkoly-mystetstv</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/94403893&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
