@@ -7,16 +7,16 @@
     
     
     
-    <updated>Thu, 19 Jun 2014 00:00:00 UTC</updated>
+    <updated>Tue, 24 Jun 2014 00:00:00 UTC</updated>
     
     <item>
-      <title>Запрошуємо на обласні змагання із судомодельного спорту</title>
-      <link>http://localhost/video/zaproshennya-sudomodelni-zmagannya</link>
-      <pubDate>Thu, 19 Jun 2014 00:00:00 UTC</pubDate>
+      <title>Підтримай армію</title>
+      <link>http://localhost/video/pidtrymay-armiyu</link>
+      <pubDate>Tue, 24 Jun 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost/video/zaproshennya-sudomodelni-zmagannya</guid>
+      <guid>http://localhost/video/pidtrymay-armiyu</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/98656606&#34; width=&#34;600&#34;
+  &lt;iframe src=&#34;//player.vimeo.com/video/99001416&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
@@ -30,6 +30,19 @@
       <guid>http://localhost/video/rybalka-pyrizhky</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
   &lt;iframe src=&#34;//player.vimeo.com/video/98522150&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Запрошуємо на обласні змагання із судомодельного спорту</title>
+      <link>http://localhost/video/zaproshennya-sudomodelni-zmagannya</link>
+      <pubDate>Thu, 19 Jun 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost/video/zaproshennya-sudomodelni-zmagannya</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/98656606&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
