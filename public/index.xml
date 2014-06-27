@@ -23,6 +23,19 @@
     </item>
     
     <item>
+      <title>Інтерв’ю з міліціонерами</title>
+      <link>http://localhost/video/intervyu-z-militsioneramy</link>
+      <pubDate>Thu, 26 Jun 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost/video/intervyu-z-militsioneramy</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/99350246&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Сесія районної ради від 20 Червня</title>
       <link>http://localhost/video/sesiya-rayonnoyi-rady-20-chervnya</link>
       <pubDate>Tue, 24 Jun 2014 00:00:00 UTC</pubDate>
@@ -153,19 +166,6 @@
     </item>
     
     <item>
-      <title>Чорно-білий фільм про Малин</title>
-      <link>http://localhost/video/chorno-bilyi-film-pro-malin</link>
-      <pubDate>Wed, 07 May 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost/video/chorno-bilyi-film-pro-malin</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/94403894&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Творчий звіт Малинської школи мистецтв</title>
       <link>http://localhost/video/tvorchyi-zvit-shkoly-mystetstv</link>
       <pubDate>Wed, 07 May 2014 00:00:00 UTC</pubDate>
@@ -179,6 +179,19 @@
     </item>
     
     <item>
+      <title>Чорно-білий фільм про Малин</title>
+      <link>http://localhost/video/chorno-bilyi-film-pro-malin</link>
+      <pubDate>Wed, 07 May 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost/video/chorno-bilyi-film-pro-malin</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/94403894&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Виступ Петра Порошенка в Малинському РБК</title>
       <link>http://localhost/video/poroshenko-malyn-rbk</link>
       <pubDate>Fri, 11 Apr 2014 00:00:00 UTC</pubDate>
@@ -186,19 +199,6 @@
       <guid>http://localhost/video/poroshenko-malyn-rbk</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
   &lt;iframe src=&#34;//player.vimeo.com/video/92712027&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Благоустрій сіл</title>
-      <link>http://localhost/video/blagoustriy-sil</link>
-      <pubDate>Sun, 20 Apr 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost/video/blagoustriy-sil</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/93156460&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
