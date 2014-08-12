@@ -7,7 +7,20 @@
     
     
     
-    <updated>Tue, 05 Aug 2014 00:00:00 UTC</updated>
+    <updated>Tue, 12 Aug 2014 00:00:00 UTC</updated>
+    
+    <item>
+      <title>День будівельника</title>
+      <link>http://localhost/video/den-budivelnyka</link>
+      <pubDate>Tue, 12 Aug 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost/video/den-budivelnyka</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/103246317&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Враження Станіслава Гуменюка про зону АТО</title>
@@ -36,19 +49,6 @@
     </item>
     
     <item>
-      <title>Віче - благодійний концерт</title>
-      <link>http://localhost/video/viche-blagodiynyi-koncert</link>
-      <pubDate>Thu, 10 Jul 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost/video/viche-blagodiynyi-koncert</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/100393685&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Гуманітарна допомога від малинщини</title>
       <link>http://localhost/video/gumanitarna-dopomoga-vid-malynschyny</link>
       <pubDate>Thu, 10 Jul 2014 00:00:00 UTC</pubDate>
@@ -62,13 +62,13 @@
     </item>
     
     <item>
-      <title>Віче - Малинщина за єдину і мирну Україну</title>
-      <link>http://localhost/video/viche-yedyna-ukrayina</link>
-      <pubDate>Fri, 04 Jul 2014 00:00:00 UTC</pubDate>
+      <title>Віче - благодійний концерт</title>
+      <link>http://localhost/video/viche-blagodiynyi-koncert</link>
+      <pubDate>Thu, 10 Jul 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost/video/viche-yedyna-ukrayina</guid>
+      <guid>http://localhost/video/viche-blagodiynyi-koncert</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/99900902&#34; width=&#34;600&#34;
+  &lt;iframe src=&#34;//player.vimeo.com/video/100393685&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
@@ -82,6 +82,19 @@
       <guid>http://localhost/video/rybatskiy-festyval-pyrizhky</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
   &lt;iframe src=&#34;//player.vimeo.com/video/99900903&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Віче - Малинщина за єдину і мирну Україну</title>
+      <link>http://localhost/video/viche-yedyna-ukrayina</link>
+      <pubDate>Fri, 04 Jul 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost/video/viche-yedyna-ukrayina</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/99900902&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
@@ -114,19 +127,6 @@
     </item>
     
     <item>
-      <title>Малинщина допомагатиме армії</title>
-      <link>http://localhost/video/malynschyna-dopomagatyme-armiyi</link>
-      <pubDate>Fri, 27 Jun 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost/video/malynschyna-dopomagatyme-armiyi</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/99415919&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>До Дня Конституції України</title>
       <link>http://localhost/video/do-dnya-konstytutsiyi-ukrayiny</link>
       <pubDate>Fri, 27 Jun 2014 00:00:00 UTC</pubDate>
@@ -134,6 +134,19 @@
       <guid>http://localhost/video/do-dnya-konstytutsiyi-ukrayiny</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
   &lt;iframe src=&#34;//player.vimeo.com/video/99415918&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Малинщина допомагатиме армії</title>
+      <link>http://localhost/video/malynschyna-dopomagatyme-armiyi</link>
+      <pubDate>Fri, 27 Jun 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost/video/malynschyna-dopomagatyme-armiyi</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/99415919&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
@@ -166,19 +179,6 @@
     </item>
     
     <item>
-      <title>Сесія районної ради від 20 Червня</title>
-      <link>http://localhost/video/sesiya-rayonnoyi-rady-20-chervnya</link>
-      <pubDate>Tue, 24 Jun 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost/video/sesiya-rayonnoyi-rady-20-chervnya</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/99037916&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Підтримай армію</title>
       <link>http://localhost/video/pidtrymay-armiyu</link>
       <pubDate>Tue, 24 Jun 2014 00:00:00 UTC</pubDate>
@@ -192,13 +192,13 @@
     </item>
     
     <item>
-      <title>Запрошуємо на рибацький «Кубок Пиріжок»</title>
-      <link>http://localhost/video/rybalka-pyrizhky</link>
-      <pubDate>Thu, 19 Jun 2014 00:00:00 UTC</pubDate>
+      <title>Сесія районної ради від 20 Червня</title>
+      <link>http://localhost/video/sesiya-rayonnoyi-rady-20-chervnya</link>
+      <pubDate>Tue, 24 Jun 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost/video/rybalka-pyrizhky</guid>
+      <guid>http://localhost/video/sesiya-rayonnoyi-rady-20-chervnya</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/98522150&#34; width=&#34;600&#34;
+  &lt;iframe src=&#34;//player.vimeo.com/video/99037916&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
