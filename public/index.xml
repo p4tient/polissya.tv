@@ -7,7 +7,20 @@
     
     
     
-    <updated>Tue, 26 Aug 2014 00:00:00 UTC</updated>
+    <updated>Fri, 29 Aug 2014 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Педагогічна конференція</title>
+      <link>http://localhost/video/pedagogichna-konferenciya</link>
+      <pubDate>Fri, 29 Aug 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost/video/pedagogichna-konferenciya</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/104732969&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Гуманітарна допомога</title>
@@ -36,19 +49,6 @@
     </item>
     
     <item>
-      <title>До уваги переселенців (Малинський Центр Зайнятості)</title>
-      <link>http://localhost/video/do-uvagy-pereselentsiv-mcz</link>
-      <pubDate>Thu, 21 Aug 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost/video/do-uvagy-pereselentsiv-mcz</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/104009576&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Засідання ГО «Малинщина» 19 Серпня</title>
       <link>http://localhost/video/zasidannya-go-malynschyna-19-serpnya</link>
       <pubDate>Thu, 21 Aug 2014 00:00:00 UTC</pubDate>
@@ -56,6 +56,19 @@
       <guid>http://localhost/video/zasidannya-go-malynschyna-19-serpnya</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
   &lt;iframe src=&#34;//player.vimeo.com/video/103982923&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>До уваги переселенців (Малинський Центр Зайнятості)</title>
+      <link>http://localhost/video/do-uvagy-pereselentsiv-mcz</link>
+      <pubDate>Thu, 21 Aug 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost/video/do-uvagy-pereselentsiv-mcz</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/104009576&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
@@ -166,19 +179,6 @@
     </item>
     
     <item>
-      <title>Підсумки змагань судномоделювальників</title>
-      <link>http://localhost/video/pidsumky-zmagan-sudnomodelyuvalnykiv</link>
-      <pubDate>Tue, 01 Jul 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost/video/pidsumky-zmagan-sudnomodelyuvalnykiv</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/99645080&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Конференція ГО «Малинщина»</title>
       <link>http://localhost/video/konferentsiya-go-malynschyna</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 UTC</pubDate>
@@ -192,13 +192,13 @@
     </item>
     
     <item>
-      <title>До Дня Конституції України</title>
-      <link>http://localhost/video/do-dnya-konstytutsiyi-ukrayiny</link>
-      <pubDate>Fri, 27 Jun 2014 00:00:00 UTC</pubDate>
+      <title>Підсумки змагань судномоделювальників</title>
+      <link>http://localhost/video/pidsumky-zmagan-sudnomodelyuvalnykiv</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost/video/do-dnya-konstytutsiyi-ukrayiny</guid>
+      <guid>http://localhost/video/pidsumky-zmagan-sudnomodelyuvalnykiv</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/99415918&#34; width=&#34;600&#34;
+  &lt;iframe src=&#34;//player.vimeo.com/video/99645080&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
