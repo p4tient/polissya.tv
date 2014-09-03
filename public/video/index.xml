@@ -1,13 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Videos on Малинська телерадіостудія Полісся </title>
+      <title>Videos on Малинська телерадіостудія «Полісся» </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
     <link>http://localhost:80/video/index.xml</link>
     
     
     
-    <updated>Fri, 29 Aug 2014 00:00:00 UTC</updated>
+    <updated>Tue, 02 Sep 2014 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Перший дзвоник у школах малинщини</title>
+      <link>http://localhost/video/pershyi-dzvonyk-u-shkolah-malynschyny</link>
+      <pubDate>Tue, 02 Sep 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost/video/pershyi-dzvonyk-u-shkolah-malynschyny</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/105099378&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Перший дзвоник у Лісотехнічному Коледжі</title>
+      <link>http://localhost/video/pershyi-dzvonyk-u-lisotehnichnomu-koledzhi</link>
+      <pubDate>Tue, 02 Sep 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost/video/pershyi-dzvonyk-u-lisotehnichnomu-koledzhi</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/105099423&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Педагогічна конференція</title>
@@ -127,19 +153,6 @@
     </item>
     
     <item>
-      <title>Віче - благодійний концерт</title>
-      <link>http://localhost/video/viche-blagodiynyi-koncert</link>
-      <pubDate>Thu, 10 Jul 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost/video/viche-blagodiynyi-koncert</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/100393685&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Гуманітарна допомога від малинщини</title>
       <link>http://localhost/video/gumanitarna-dopomoga-vid-malynschyny</link>
       <pubDate>Thu, 10 Jul 2014 00:00:00 UTC</pubDate>
@@ -153,13 +166,13 @@
     </item>
     
     <item>
-      <title>Віче - Малинщина за єдину і мирну Україну</title>
-      <link>http://localhost/video/viche-yedyna-ukrayina</link>
-      <pubDate>Fri, 04 Jul 2014 00:00:00 UTC</pubDate>
+      <title>Віче - благодійний концерт</title>
+      <link>http://localhost/video/viche-blagodiynyi-koncert</link>
+      <pubDate>Thu, 10 Jul 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost/video/viche-yedyna-ukrayina</guid>
+      <guid>http://localhost/video/viche-blagodiynyi-koncert</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/99900902&#34; width=&#34;600&#34;
+  &lt;iframe src=&#34;//player.vimeo.com/video/100393685&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
@@ -179,26 +192,13 @@
     </item>
     
     <item>
-      <title>Конференція ГО «Малинщина»</title>
-      <link>http://localhost/video/konferentsiya-go-malynschyna</link>
-      <pubDate>Tue, 01 Jul 2014 00:00:00 UTC</pubDate>
+      <title>Віче - Малинщина за єдину і мирну Україну</title>
+      <link>http://localhost/video/viche-yedyna-ukrayina</link>
+      <pubDate>Fri, 04 Jul 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost/video/konferentsiya-go-malynschyna</guid>
+      <guid>http://localhost/video/viche-yedyna-ukrayina</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/99645081&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Підсумки змагань судномоделювальників</title>
-      <link>http://localhost/video/pidsumky-zmagan-sudnomodelyuvalnykiv</link>
-      <pubDate>Tue, 01 Jul 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost/video/pidsumky-zmagan-sudnomodelyuvalnykiv</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/99645080&#34; width=&#34;600&#34;
+  &lt;iframe src=&#34;//player.vimeo.com/video/99900902&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
