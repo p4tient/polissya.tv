@@ -23,6 +23,19 @@
     </item>
     
     <item>
+      <title>Змагання з авіамодельного спорту</title>
+      <link>http://localhost/video/zmagannya-z-aviamodelnogo-sportu</link>
+      <pubDate>Thu, 25 Sep 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost/video/zmagannya-z-aviamodelnogo-sportu</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/107119718&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Сесія районної ради від 19 вересня</title>
       <link>http://localhost/video/sesiya-rayonnoyi-rady-19-veresnya</link>
       <pubDate>Wed, 24 Sep 2014 00:00:00 UTC</pubDate>
@@ -49,19 +62,6 @@
     </item>
     
     <item>
-      <title>Перший дзвоник у лісотехнічному коледжі</title>
-      <link>http://localhost/video/pershyi-dzvonyk-u-lisotehnichnomu-koledzhi</link>
-      <pubDate>Tue, 02 Sep 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost/video/pershyi-dzvonyk-u-lisotehnichnomu-koledzhi</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/105099423&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Перший дзвоник у школах Малинщини</title>
       <link>http://localhost/video/pershyi-dzvonyk-u-shkolah-malynschyny</link>
       <pubDate>Tue, 02 Sep 2014 00:00:00 UTC</pubDate>
@@ -69,6 +69,19 @@
       <guid>http://localhost/video/pershyi-dzvonyk-u-shkolah-malynschyny</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
   &lt;iframe src=&#34;//player.vimeo.com/video/105099378&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Перший дзвоник у лісотехнічному коледжі</title>
+      <link>http://localhost/video/pershyi-dzvonyk-u-lisotehnichnomu-koledzhi</link>
+      <pubDate>Tue, 02 Sep 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost/video/pershyi-dzvonyk-u-lisotehnichnomu-koledzhi</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/105099423&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
@@ -186,19 +199,6 @@
       <guid>http://localhost/video/patriotychnyi-fleshmob</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
   &lt;iframe src=&#34;//player.vimeo.com/video/100484123&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Гуманітарна допомога від малинщини</title>
-      <link>http://localhost/video/gumanitarna-dopomoga-vid-malynschyny</link>
-      <pubDate>Thu, 10 Jul 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost/video/gumanitarna-dopomoga-vid-malynschyny</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/100424237&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
