@@ -7,7 +7,33 @@
     
     
     
-    <updated>Fri, 26 Sep 2014 00:00:00 UTC</updated>
+    <updated>Wed, 01 Oct 2014 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Нагороди знайшли своїх героїв</title>
+      <link>http://localhost/video/nagorody-znayshly-svoih-geroyiv</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost/video/nagorody-znayshly-svoih-geroyiv</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/107698993&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>День села</title>
+      <link>http://localhost/video/den-sela</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost/video/den-sela</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/107692254&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Зібрання трудового колективу Пенізевицького кар’єроуправління</title>
@@ -49,19 +75,6 @@
     </item>
     
     <item>
-      <title>Змагання з авіамодельного спорту</title>
-      <link>http://localhost/video/zmagannya-z-aviamodelnogo-sportu</link>
-      <pubDate>Thu, 25 Sep 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost/video/zmagannya-z-aviamodelnogo-sportu</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/107119718&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Урочистості до Дня міста</title>
       <link>http://localhost/video/urochystosti-do-dnya-mista-rbk</link>
       <pubDate>Thu, 25 Sep 2014 00:00:00 UTC</pubDate>
@@ -69,6 +82,19 @@
       <guid>http://localhost/video/urochystosti-do-dnya-mista-rbk</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
   &lt;iframe src=&#34;//player.vimeo.com/video/107052496&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Змагання з авіамодельного спорту</title>
+      <link>http://localhost/video/zmagannya-z-aviamodelnogo-sportu</link>
+      <pubDate>Thu, 25 Sep 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost/video/zmagannya-z-aviamodelnogo-sportu</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/107119718&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
@@ -173,32 +199,6 @@
       <guid>http://localhost/video/zasidannya-go-malynschyna-19-serpnya</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
   &lt;iframe src=&#34;//player.vimeo.com/video/103982923&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>До уваги переселенців (Малинський Центр Зайнятості)</title>
-      <link>http://localhost/video/do-uvagy-pereselentsiv-mcz</link>
-      <pubDate>Thu, 21 Aug 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost/video/do-uvagy-pereselentsiv-mcz</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/104009576&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Другий Спас</title>
-      <link>http://localhost/video/drugyi-spas</link>
-      <pubDate>Tue, 19 Aug 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost/video/drugyi-spas</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/103828046&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
