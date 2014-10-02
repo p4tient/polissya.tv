@@ -23,19 +23,6 @@
     </item>
     
     <item>
-      <title>День села</title>
-      <link>http://localhost/video/den-sela</link>
-      <pubDate>Wed, 01 Oct 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost/video/den-sela</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/107692254&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Зібрання трудового колективу Пенізевицького кар’єроуправління</title>
       <link>http://localhost/video/zibrannya-trudovogo-kolektyvu-penizevytskogo-karyeroupravlinnya</link>
       <pubDate>Fri, 26 Sep 2014 00:00:00 UTC</pubDate>
@@ -49,19 +36,6 @@
     </item>
     
     <item>
-      <title>Позачергова сесія районної ради 25 вересня</title>
-      <link>http://localhost/video/pozachergova-sesiya-rayonnoyi-rady-25-veresnya</link>
-      <pubDate>Thu, 25 Sep 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost/video/pozachergova-sesiya-rayonnoyi-rady-25-veresnya</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/107144975&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Заслужена нагорода для героя</title>
       <link>http://localhost/video/zasluzhena-nagoroda-dlya-geroya</link>
       <pubDate>Thu, 25 Sep 2014 00:00:00 UTC</pubDate>
@@ -69,6 +43,19 @@
       <guid>http://localhost/video/zasluzhena-nagoroda-dlya-geroya</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
   &lt;iframe src=&#34;//player.vimeo.com/video/107144886&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Позачергова сесія районної ради 25 вересня</title>
+      <link>http://localhost/video/pozachergova-sesiya-rayonnoyi-rady-25-veresnya</link>
+      <pubDate>Thu, 25 Sep 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost/video/pozachergova-sesiya-rayonnoyi-rady-25-veresnya</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/107144975&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
@@ -199,6 +186,19 @@
       <guid>http://localhost/video/zasidannya-go-malynschyna-19-serpnya</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
   &lt;iframe src=&#34;//player.vimeo.com/video/103982923&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>До уваги переселенців (Малинський Центр Зайнятості)</title>
+      <link>http://localhost/video/do-uvagy-pereselentsiv-mcz</link>
+      <pubDate>Thu, 21 Aug 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost/video/do-uvagy-pereselentsiv-mcz</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/104009576&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
