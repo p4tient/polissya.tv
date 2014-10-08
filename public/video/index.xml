@@ -7,7 +7,20 @@
     
     
     
-    <updated>Wed, 01 Oct 2014 00:00:00 UTC</updated>
+    <updated>Wed, 08 Oct 2014 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Зустріч з кандидатом в депутати Василем Кузнєцовим</title>
+      <link>http://localhost:8080/video/zustrich-z-kandydatom-vasylem-kuznyetsovym</link>
+      <pubDate>Wed, 08 Oct 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:8080/video/zustrich-z-kandydatom-vasylem-kuznyetsovym</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/108363309&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Нагороди знайшли своїх героїв</title>
@@ -49,19 +62,6 @@
     </item>
     
     <item>
-      <title>Заслужена нагорода для героя</title>
-      <link>http://localhost:8080/video/zasluzhena-nagoroda-dlya-geroya</link>
-      <pubDate>Thu, 25 Sep 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:8080/video/zasluzhena-nagoroda-dlya-geroya</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/107144886&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Позачергова сесія районної ради 25 вересня</title>
       <link>http://localhost:8080/video/pozachergova-sesiya-rayonnoyi-rady-25-veresnya</link>
       <pubDate>Thu, 25 Sep 2014 00:00:00 UTC</pubDate>
@@ -75,13 +75,13 @@
     </item>
     
     <item>
-      <title>Змагання з авіамодельного спорту</title>
-      <link>http://localhost:8080/video/zmagannya-z-aviamodelnogo-sportu</link>
+      <title>Заслужена нагорода для героя</title>
+      <link>http://localhost:8080/video/zasluzhena-nagoroda-dlya-geroya</link>
       <pubDate>Thu, 25 Sep 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:8080/video/zmagannya-z-aviamodelnogo-sportu</guid>
+      <guid>http://localhost:8080/video/zasluzhena-nagoroda-dlya-geroya</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/107119718&#34; width=&#34;600&#34;
+  &lt;iframe src=&#34;//player.vimeo.com/video/107144886&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
@@ -95,6 +95,19 @@
       <guid>http://localhost:8080/video/urochystosti-do-dnya-mista-rbk</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
   &lt;iframe src=&#34;//player.vimeo.com/video/107052496&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Змагання з авіамодельного спорту</title>
+      <link>http://localhost:8080/video/zmagannya-z-aviamodelnogo-sportu</link>
+      <pubDate>Thu, 25 Sep 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:8080/video/zmagannya-z-aviamodelnogo-sportu</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/107119718&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
@@ -186,19 +199,6 @@
       <guid>http://localhost:8080/video/do-dnya-nezalezhnosti-ukrayiny-rbk</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
   &lt;iframe src=&#34;//player.vimeo.com/video/104174824&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>До уваги переселенців (Малинський Центр Зайнятості)</title>
-      <link>http://localhost:8080/video/do-uvagy-pereselentsiv-mcz</link>
-      <pubDate>Thu, 21 Aug 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:8080/video/do-uvagy-pereselentsiv-mcz</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/104009576&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
