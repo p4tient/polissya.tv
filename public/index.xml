@@ -7,7 +7,20 @@
     
     
     
-    <updated>Wed, 08 Oct 2014 00:00:00 UTC</updated>
+    <updated>Tue, 14 Oct 2014 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Маленькі патріоти із дс Ялинка</title>
+      <link>http://localhost:8080/video/malenki-patrioty-iz-ds-yalynka</link>
+      <pubDate>Tue, 14 Oct 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:8080/video/malenki-patrioty-iz-ds-yalynka</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/108880739&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Зустріч з кандидатом в депутати Василем Кузнєцовим</title>
@@ -23,19 +36,6 @@
     </item>
     
     <item>
-      <title>Нагороди знайшли своїх героїв</title>
-      <link>http://localhost:8080/video/nagorody-znayshly-svoih-geroyiv</link>
-      <pubDate>Wed, 01 Oct 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:8080/video/nagorody-znayshly-svoih-geroyiv</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/107698993&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>День села</title>
       <link>http://localhost:8080/video/den-sela</link>
       <pubDate>Wed, 01 Oct 2014 00:00:00 UTC</pubDate>
@@ -43,6 +43,19 @@
       <guid>http://localhost:8080/video/den-sela</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
   &lt;iframe src=&#34;//player.vimeo.com/video/107812340&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Нагороди знайшли своїх героїв</title>
+      <link>http://localhost:8080/video/nagorody-znayshly-svoih-geroyiv</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:8080/video/nagorody-znayshly-svoih-geroyiv</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/107698993&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
@@ -88,19 +101,6 @@
     </item>
     
     <item>
-      <title>Урочистості до Дня міста</title>
-      <link>http://localhost:8080/video/urochystosti-do-dnya-mista-rbk</link>
-      <pubDate>Thu, 25 Sep 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:8080/video/urochystosti-do-dnya-mista-rbk</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/107052496&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Змагання з авіамодельного спорту</title>
       <link>http://localhost:8080/video/zmagannya-z-aviamodelnogo-sportu</link>
       <pubDate>Thu, 25 Sep 2014 00:00:00 UTC</pubDate>
@@ -108,6 +108,19 @@
       <guid>http://localhost:8080/video/zmagannya-z-aviamodelnogo-sportu</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
   &lt;iframe src=&#34;//player.vimeo.com/video/107119718&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Урочистості до Дня міста</title>
+      <link>http://localhost:8080/video/urochystosti-do-dnya-mista-rbk</link>
+      <pubDate>Thu, 25 Sep 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:8080/video/urochystosti-do-dnya-mista-rbk</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/107052496&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
@@ -140,19 +153,6 @@
     </item>
     
     <item>
-      <title>Перший дзвоник у лісотехнічному коледжі</title>
-      <link>http://localhost:8080/video/pershyi-dzvonyk-u-lisotehnichnomu-koledzhi</link>
-      <pubDate>Tue, 02 Sep 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:8080/video/pershyi-dzvonyk-u-lisotehnichnomu-koledzhi</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/105099423&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Перший дзвоник у школах Малинщини</title>
       <link>http://localhost:8080/video/pershyi-dzvonyk-u-shkolah-malynschyny</link>
       <pubDate>Tue, 02 Sep 2014 00:00:00 UTC</pubDate>
@@ -160,6 +160,19 @@
       <guid>http://localhost:8080/video/pershyi-dzvonyk-u-shkolah-malynschyny</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
   &lt;iframe src=&#34;//player.vimeo.com/video/105099378&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Перший дзвоник у лісотехнічному коледжі</title>
+      <link>http://localhost:8080/video/pershyi-dzvonyk-u-lisotehnichnomu-koledzhi</link>
+      <pubDate>Tue, 02 Sep 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:8080/video/pershyi-dzvonyk-u-lisotehnichnomu-koledzhi</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/105099423&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
@@ -186,19 +199,6 @@
       <guid>http://localhost:8080/video/gumanitarna-dopomoga</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
   &lt;iframe src=&#34;//player.vimeo.com/video/104383977&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>До Дня Незалежності України в РБК</title>
-      <link>http://localhost:8080/video/do-dnya-nezalezhnosti-ukrayiny-rbk</link>
-      <pubDate>Sat, 23 Aug 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:8080/video/do-dnya-nezalezhnosti-ukrayiny-rbk</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/104174824&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
