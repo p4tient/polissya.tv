@@ -7,7 +7,20 @@
     
     
     
-    <updated>Tue, 14 Oct 2014 00:00:00 UTC</updated>
+    <updated>Wed, 15 Oct 2014 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Вічна пам’ять героям</title>
+      <link>http://localhost:8080/video/vichna-pamyat-geroyam</link>
+      <pubDate>Wed, 15 Oct 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:8080/video/vichna-pamyat-geroyam</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/109001334&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Маленькі патріоти із дс Ялинка</title>
@@ -186,19 +199,6 @@
       <guid>http://localhost:8080/video/pedagogichna-konferenciya</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
   &lt;iframe src=&#34;//player.vimeo.com/video/104732969&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Гуманітарна допомога</title>
-      <link>http://localhost:8080/video/gumanitarna-dopomoga</link>
-      <pubDate>Tue, 26 Aug 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:8080/video/gumanitarna-dopomoga</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/104383977&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
