@@ -7,7 +7,20 @@
     
     
     
-    <updated>Tue, 04 Nov 2014 00:00:00 UTC</updated>
+    <updated>Fri, 07 Nov 2014 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Музичне заняття у ДС «Ялинка»</title>
+      <link>http://localhost:8080/video/muzychne-zanyattya-ds-yalynka</link>
+      <pubDate>Fri, 07 Nov 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:8080/video/muzychne-zanyattya-ds-yalynka</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/111229228&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Позачергова сесія міської ради від 31 жовтня</title>
@@ -101,19 +114,6 @@
     </item>
     
     <item>
-      <title>День села</title>
-      <link>http://localhost:8080/video/den-sela</link>
-      <pubDate>Wed, 01 Oct 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:8080/video/den-sela</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/107812340&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Нагороди знайшли своїх героїв</title>
       <link>http://localhost:8080/video/nagorody-znayshly-svoih-geroyiv</link>
       <pubDate>Wed, 01 Oct 2014 00:00:00 UTC</pubDate>
@@ -121,6 +121,19 @@
       <guid>http://localhost:8080/video/nagorody-znayshly-svoih-geroyiv</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
   &lt;iframe src=&#34;//player.vimeo.com/video/107698993&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>День села</title>
+      <link>http://localhost:8080/video/den-sela</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:8080/video/den-sela</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/107812340&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
@@ -166,19 +179,6 @@
     </item>
     
     <item>
-      <title>Змагання з авіамодельного спорту</title>
-      <link>http://localhost:8080/video/zmagannya-z-aviamodelnogo-sportu</link>
-      <pubDate>Thu, 25 Sep 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:8080/video/zmagannya-z-aviamodelnogo-sportu</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/107119718&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Урочистості до Дня міста</title>
       <link>http://localhost:8080/video/urochystosti-do-dnya-mista-rbk</link>
       <pubDate>Thu, 25 Sep 2014 00:00:00 UTC</pubDate>
@@ -192,13 +192,13 @@
     </item>
     
     <item>
-      <title>Сесія районної ради від 19 вересня</title>
-      <link>http://localhost:8080/video/sesiya-rayonnoyi-rady-19-veresnya</link>
-      <pubDate>Wed, 24 Sep 2014 00:00:00 UTC</pubDate>
+      <title>Змагання з авіамодельного спорту</title>
+      <link>http://localhost:8080/video/zmagannya-z-aviamodelnogo-sportu</link>
+      <pubDate>Thu, 25 Sep 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:8080/video/sesiya-rayonnoyi-rady-19-veresnya</guid>
+      <guid>http://localhost:8080/video/zmagannya-z-aviamodelnogo-sportu</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/107024652&#34; width=&#34;600&#34;
+  &lt;iframe src=&#34;//player.vimeo.com/video/107119718&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
