@@ -7,7 +7,20 @@
     
     
     
-    <updated>Fri, 07 Nov 2014 00:00:00 UTC</updated>
+    <updated>Mon, 10 Nov 2014 00:00:00 UTC</updated>
+    
+    <item>
+      <title>На гостину до Василя</title>
+      <link>http://localhost:8080/video/na-gostynu-do-vasylya</link>
+      <pubDate>Mon, 10 Nov 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:8080/video/na-gostynu-do-vasylya</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/111278200&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Музичне заняття у ДС «Ялинка»</title>
@@ -186,19 +199,6 @@
       <guid>http://localhost:8080/video/urochystosti-do-dnya-mista-rbk</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
   &lt;iframe src=&#34;//player.vimeo.com/video/107052496&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Змагання з авіамодельного спорту</title>
-      <link>http://localhost:8080/video/zmagannya-z-aviamodelnogo-sportu</link>
-      <pubDate>Thu, 25 Sep 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:8080/video/zmagannya-z-aviamodelnogo-sportu</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/107119718&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
