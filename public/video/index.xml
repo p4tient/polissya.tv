@@ -7,7 +7,33 @@
     
     
     
-    <updated>Fri, 14 Nov 2014 00:00:00 UTC</updated>
+    <updated>Thu, 20 Nov 2014 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Запали свічу. Спогади слобідчанки Ганни Ковальчук (Архів)</title>
+      <link>http://localhost:8080/video/spogady-ganny-kovalchuk</link>
+      <pubDate>Thu, 20 Nov 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:8080/video/spogady-ganny-kovalchuk</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/112374674&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Концерт хорової музики капели «Орея»</title>
+      <link>http://localhost:8080/video/koncert-horovoyi-muzyky-kapely-oreya</link>
+      <pubDate>Thu, 20 Nov 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:8080/video/koncert-horovoyi-muzyky-kapely-oreya</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/112372926&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Екскурсія у Буках</title>
@@ -140,19 +166,6 @@
     </item>
     
     <item>
-      <title>Нагороди знайшли своїх героїв</title>
-      <link>http://localhost:8080/video/nagorody-znayshly-svoih-geroyiv</link>
-      <pubDate>Wed, 01 Oct 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:8080/video/nagorody-znayshly-svoih-geroyiv</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/107698993&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>День села</title>
       <link>http://localhost:8080/video/den-sela</link>
       <pubDate>Wed, 01 Oct 2014 00:00:00 UTC</pubDate>
@@ -166,6 +179,19 @@
     </item>
     
     <item>
+      <title>Нагороди знайшли своїх героїв</title>
+      <link>http://localhost:8080/video/nagorody-znayshly-svoih-geroyiv</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:8080/video/nagorody-znayshly-svoih-geroyiv</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/107698993&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Зібрання трудового колективу Пенізевицького кар’єроуправління</title>
       <link>http://localhost:8080/video/zibrannya-trudovogo-kolektyvu-penizevytskogo-karyeroupravlinnya</link>
       <pubDate>Fri, 26 Sep 2014 00:00:00 UTC</pubDate>
@@ -173,32 +199,6 @@
       <guid>http://localhost:8080/video/zibrannya-trudovogo-kolektyvu-penizevytskogo-karyeroupravlinnya</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
   &lt;iframe src=&#34;//player.vimeo.com/video/107245141&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Позачергова сесія районної ради 25 вересня</title>
-      <link>http://localhost:8080/video/pozachergova-sesiya-rayonnoyi-rady-25-veresnya</link>
-      <pubDate>Thu, 25 Sep 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:8080/video/pozachergova-sesiya-rayonnoyi-rady-25-veresnya</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/107144975&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Заслужена нагорода для героя</title>
-      <link>http://localhost:8080/video/zasluzhena-nagoroda-dlya-geroya</link>
-      <pubDate>Thu, 25 Sep 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:8080/video/zasluzhena-nagoroda-dlya-geroya</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/107144886&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
