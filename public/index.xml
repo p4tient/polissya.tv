@@ -10,6 +10,45 @@
     <updated>Thu, 20 Nov 2014 00:00:00 UTC</updated>
     
     <item>
+      <title>Вітаємо матерів-героїнь</title>
+      <link>http://localhost:8080/video/vitayemo-materiv-geroyin</link>
+      <pubDate>Thu, 20 Nov 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:8080/video/vitayemo-materiv-geroyin</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/112394258&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сесія міської ради від 18 листопада</title>
+      <link>http://localhost:8080/video/sesiya-miskoyi-rady-vid-18-lystopada</link>
+      <pubDate>Thu, 20 Nov 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:8080/video/sesiya-miskoyi-rady-vid-18-lystopada</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/112390203&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Допомога бійцям АТО</title>
+      <link>http://localhost:8080/video/dopomoga-biytsyam-ato</link>
+      <pubDate>Thu, 20 Nov 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:8080/video/dopomoga-biytsyam-ato</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/112390676&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Запали свічу. Спогади слобідчанки Ганни Ковальчук (Архів)</title>
       <link>http://localhost:8080/video/spogady-ganny-kovalchuk</link>
       <pubDate>Thu, 20 Nov 2014 00:00:00 UTC</pubDate>
@@ -160,45 +199,6 @@
       <guid>http://localhost:8080/video/zustrich-z-kandydatom-vasylem-kuznyetsovym</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
   &lt;iframe src=&#34;//player.vimeo.com/video/108363309&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>День села</title>
-      <link>http://localhost:8080/video/den-sela</link>
-      <pubDate>Wed, 01 Oct 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:8080/video/den-sela</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/107812340&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Нагороди знайшли своїх героїв</title>
-      <link>http://localhost:8080/video/nagorody-znayshly-svoih-geroyiv</link>
-      <pubDate>Wed, 01 Oct 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:8080/video/nagorody-znayshly-svoih-geroyiv</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/107698993&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Зібрання трудового колективу Пенізевицького кар’єроуправління</title>
-      <link>http://localhost:8080/video/zibrannya-trudovogo-kolektyvu-penizevytskogo-karyeroupravlinnya</link>
-      <pubDate>Fri, 26 Sep 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:8080/video/zibrannya-trudovogo-kolektyvu-penizevytskogo-karyeroupravlinnya</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/107245141&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
