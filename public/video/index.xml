@@ -7,29 +7,55 @@
     
     
     
-    <updated>Thu, 20 Nov 2014 00:00:00 UTC</updated>
+    <updated>Fri, 21 Nov 2014 00:00:00 UTC</updated>
     
     <item>
-      <title>Вітаємо матерів-героїнь</title>
-      <link>http://localhost:8080/video/vitayemo-materiv-geroyin</link>
-      <pubDate>Thu, 20 Nov 2014 00:00:00 UTC</pubDate>
+      <title>День гідності і свободи</title>
+      <link>http://localhost:8080/video/den-gidnosti-i-svobody</link>
+      <pubDate>Fri, 21 Nov 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:8080/video/vitayemo-materiv-geroyin</guid>
+      <guid>http://localhost:8080/video/den-gidnosti-i-svobody</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/112394258&#34; width=&#34;600&#34;
+  &lt;iframe src=&#34;//player.vimeo.com/video/112490702&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
     </item>
     
     <item>
-      <title>Сесія міської ради від 18 листопада</title>
-      <link>http://localhost:8080/video/sesiya-miskoyi-rady-vid-18-lystopada</link>
-      <pubDate>Thu, 20 Nov 2014 00:00:00 UTC</pubDate>
+      <title>Доброго Вам здоров’я. Цукровий діабет</title>
+      <link>http://localhost:8080/video/dobrogo-zdorovya-tsukrovyi-diabet</link>
+      <pubDate>Fri, 21 Nov 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:8080/video/sesiya-miskoyi-rady-vid-18-lystopada</guid>
+      <guid>http://localhost:8080/video/dobrogo-zdorovya-tsukrovyi-diabet</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/112390203&#34; width=&#34;600&#34;
+  &lt;iframe src=&#34;//player.vimeo.com/video/112465915&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>День святого Михайла</title>
+      <link>http://localhost:8080/video/den-svyatogo-myhayla</link>
+      <pubDate>Fri, 21 Nov 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:8080/video/den-svyatogo-myhayla</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/112490638&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Запали свічу. Спогади Надії Давиденко та Катерини Іваніченко с. Українка (Архів)</title>
+      <link>http://localhost:8080/video/spogady-nadiyi-davydenko-kateryny-ivanichenko</link>
+      <pubDate>Fri, 21 Nov 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:8080/video/spogady-nadiyi-davydenko-kateryny-ivanichenko</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/112495857&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
@@ -49,13 +75,13 @@
     </item>
     
     <item>
-      <title>Запали свічу. Спогади слобідчанки Ганни Ковальчук (Архів)</title>
-      <link>http://localhost:8080/video/spogady-ganny-kovalchuk</link>
+      <title>Вітаємо матерів-героїнь</title>
+      <link>http://localhost:8080/video/vitayemo-materiv-geroyin</link>
       <pubDate>Thu, 20 Nov 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:8080/video/spogady-ganny-kovalchuk</guid>
+      <guid>http://localhost:8080/video/vitayemo-materiv-geroyin</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/112374674&#34; width=&#34;600&#34;
+  &lt;iframe src=&#34;//player.vimeo.com/video/112394258&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
@@ -69,6 +95,32 @@
       <guid>http://localhost:8080/video/koncert-horovoyi-muzyky-kapely-oreya</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
   &lt;iframe src=&#34;//player.vimeo.com/video/112372926&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Запали свічу. Спогади слобідчанки Ганни Ковальчук (Архів)</title>
+      <link>http://localhost:8080/video/spogady-ganny-kovalchuk</link>
+      <pubDate>Thu, 20 Nov 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:8080/video/spogady-ganny-kovalchuk</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/112374674&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сесія міської ради від 18 листопада</title>
+      <link>http://localhost:8080/video/sesiya-miskoyi-rady-vid-18-lystopada</link>
+      <pubDate>Thu, 20 Nov 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:8080/video/sesiya-miskoyi-rady-vid-18-lystopada</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/112390203&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
@@ -147,58 +199,6 @@
       <guid>http://localhost:8080/video/zmagannya-yunyh-lisivnykiv</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
   &lt;iframe src=&#34;//player.vimeo.com/video/109254148&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Мелодії осінньої печалі</title>
-      <link>http://localhost:8080/video/melodiyi-osinnyoyi-pechali</link>
-      <pubDate>Thu, 16 Oct 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:8080/video/melodiyi-osinnyoyi-pechali</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/109145554&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Вічна пам’ять героям</title>
-      <link>http://localhost:8080/video/vichna-pamyat-geroyam</link>
-      <pubDate>Wed, 15 Oct 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:8080/video/vichna-pamyat-geroyam</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/109001334&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Маленькі патріоти із дс Ялинка</title>
-      <link>http://localhost:8080/video/malenki-patrioty-iz-ds-yalynka</link>
-      <pubDate>Tue, 14 Oct 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:8080/video/malenki-patrioty-iz-ds-yalynka</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/108880739&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Зустріч з кандидатом в депутати Василем Кузнєцовим</title>
-      <link>http://localhost:8080/video/zustrich-z-kandydatom-vasylem-kuznyetsovym</link>
-      <pubDate>Wed, 08 Oct 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:8080/video/zustrich-z-kandydatom-vasylem-kuznyetsovym</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/108363309&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
