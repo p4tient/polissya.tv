@@ -7,16 +7,16 @@
     
     
     
-    <updated>Fri, 21 Nov 2014 00:00:00 UTC</updated>
+    <updated>Tue, 25 Nov 2014 00:00:00 UTC</updated>
     
     <item>
-      <title>День гідності і свободи</title>
-      <link>http://localhost:8080/video/den-gidnosti-i-svobody</link>
-      <pubDate>Fri, 21 Nov 2014 00:00:00 UTC</pubDate>
+      <title>День пам’яті жертв голодомору</title>
+      <link>http://localhost:8080/video/den-pamyati-zhertv-golodomoru</link>
+      <pubDate>Tue, 25 Nov 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:8080/video/den-gidnosti-i-svobody</guid>
+      <guid>http://localhost:8080/video/den-pamyati-zhertv-golodomoru</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/112490702&#34; width=&#34;600&#34;
+  &lt;iframe src=&#34;//player.vimeo.com/video/112800471&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
@@ -62,13 +62,26 @@
     </item>
     
     <item>
-      <title>Допомога бійцям АТО</title>
-      <link>http://localhost:8080/video/dopomoga-biytsyam-ato</link>
+      <title>День гідності і свободи</title>
+      <link>http://localhost:8080/video/den-gidnosti-i-svobody</link>
+      <pubDate>Fri, 21 Nov 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:8080/video/den-gidnosti-i-svobody</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/112490702&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сесія міської ради від 18 листопада</title>
+      <link>http://localhost:8080/video/sesiya-miskoyi-rady-vid-18-lystopada</link>
       <pubDate>Thu, 20 Nov 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:8080/video/dopomoga-biytsyam-ato</guid>
+      <guid>http://localhost:8080/video/sesiya-miskoyi-rady-vid-18-lystopada</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/112390676&#34; width=&#34;600&#34;
+  &lt;iframe src=&#34;//player.vimeo.com/video/112390203&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
@@ -88,13 +101,13 @@
     </item>
     
     <item>
-      <title>Концерт хорової музики капели «Орея»</title>
-      <link>http://localhost:8080/video/koncert-horovoyi-muzyky-kapely-oreya</link>
+      <title>Допомога бійцям АТО</title>
+      <link>http://localhost:8080/video/dopomoga-biytsyam-ato</link>
       <pubDate>Thu, 20 Nov 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:8080/video/koncert-horovoyi-muzyky-kapely-oreya</guid>
+      <guid>http://localhost:8080/video/dopomoga-biytsyam-ato</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/112372926&#34; width=&#34;600&#34;
+  &lt;iframe src=&#34;//player.vimeo.com/video/112390676&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
@@ -114,13 +127,13 @@
     </item>
     
     <item>
-      <title>Сесія міської ради від 18 листопада</title>
-      <link>http://localhost:8080/video/sesiya-miskoyi-rady-vid-18-lystopada</link>
+      <title>Концерт хорової музики капели «Орея»</title>
+      <link>http://localhost:8080/video/koncert-horovoyi-muzyky-kapely-oreya</link>
       <pubDate>Thu, 20 Nov 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:8080/video/sesiya-miskoyi-rady-vid-18-lystopada</guid>
+      <guid>http://localhost:8080/video/koncert-horovoyi-muzyky-kapely-oreya</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/112390203&#34; width=&#34;600&#34;
+  &lt;iframe src=&#34;//player.vimeo.com/video/112372926&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
@@ -186,19 +199,6 @@
       <guid>http://localhost:8080/video/pershist-rayonu-z-nastilnogo-tenisu-v-novyh-vorobyah</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
   &lt;iframe src=&#34;//player.vimeo.com/video/110388515&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Змагання юних лісівників</title>
-      <link>http://localhost:8080/video/zmagannya-yunyh-lisivnykiv</link>
-      <pubDate>Fri, 17 Oct 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:8080/video/zmagannya-yunyh-lisivnykiv</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/109254148&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
