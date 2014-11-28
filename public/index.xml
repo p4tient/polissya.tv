@@ -7,7 +7,20 @@
     
     
     
-    <updated>Wed, 26 Nov 2014 00:00:00 UTC</updated>
+    <updated>Fri, 28 Nov 2014 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Сесія районної ради від 26 листопада</title>
+      <link>http://localhost:8080/video/sesiya-rayonnoyi-rady-26-lystopada</link>
+      <pubDate>Fri, 28 Nov 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:8080/video/sesiya-rayonnoyi-rady-26-lystopada</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/113075731&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Засідання ГО Малинщина</title>
@@ -36,32 +49,6 @@
     </item>
     
     <item>
-      <title>Доброго Вам здоров’я. Цукровий діабет</title>
-      <link>http://localhost:8080/video/dobrogo-zdorovya-tsukrovyi-diabet</link>
-      <pubDate>Fri, 21 Nov 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:8080/video/dobrogo-zdorovya-tsukrovyi-diabet</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/112465915&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Запали свічу. Спогади Надії Давиденко та Катерини Іваніченко с. Українка (Архів)</title>
-      <link>http://localhost:8080/video/spogady-nadiyi-davydenko-kateryny-ivanichenko</link>
-      <pubDate>Fri, 21 Nov 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:8080/video/spogady-nadiyi-davydenko-kateryny-ivanichenko</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/112495857&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>День святого Михайла</title>
       <link>http://localhost:8080/video/den-svyatogo-myhayla</link>
       <pubDate>Fri, 21 Nov 2014 00:00:00 UTC</pubDate>
@@ -69,6 +56,19 @@
       <guid>http://localhost:8080/video/den-svyatogo-myhayla</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
   &lt;iframe src=&#34;//player.vimeo.com/video/112490638&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Доброго Вам здоров’я. Цукровий діабет</title>
+      <link>http://localhost:8080/video/dobrogo-zdorovya-tsukrovyi-diabet</link>
+      <pubDate>Fri, 21 Nov 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:8080/video/dobrogo-zdorovya-tsukrovyi-diabet</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/112465915&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
@@ -88,26 +88,13 @@
     </item>
     
     <item>
-      <title>Допомога бійцям АТО</title>
-      <link>http://localhost:8080/video/dopomoga-biytsyam-ato</link>
-      <pubDate>Thu, 20 Nov 2014 00:00:00 UTC</pubDate>
+      <title>Запали свічу. Спогади Надії Давиденко та Катерини Іваніченко с. Українка (Архів)</title>
+      <link>http://localhost:8080/video/spogady-nadiyi-davydenko-kateryny-ivanichenko</link>
+      <pubDate>Fri, 21 Nov 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:8080/video/dopomoga-biytsyam-ato</guid>
+      <guid>http://localhost:8080/video/spogady-nadiyi-davydenko-kateryny-ivanichenko</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/112390676&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Вітаємо матерів-героїнь</title>
-      <link>http://localhost:8080/video/vitayemo-materiv-geroyin</link>
-      <pubDate>Thu, 20 Nov 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:8080/video/vitayemo-materiv-geroyin</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/112394258&#34; width=&#34;600&#34;
+  &lt;iframe src=&#34;//player.vimeo.com/video/112495857&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
@@ -127,6 +114,19 @@
     </item>
     
     <item>
+      <title>Запали свічу. Спогади слобідчанки Ганни Ковальчук (Архів)</title>
+      <link>http://localhost:8080/video/spogady-ganny-kovalchuk</link>
+      <pubDate>Thu, 20 Nov 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:8080/video/spogady-ganny-kovalchuk</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/112374674&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Концерт хорової музики капели «Орея»</title>
       <link>http://localhost:8080/video/koncert-horovoyi-muzyky-kapely-oreya</link>
       <pubDate>Thu, 20 Nov 2014 00:00:00 UTC</pubDate>
@@ -140,13 +140,26 @@
     </item>
     
     <item>
-      <title>Запали свічу. Спогади слобідчанки Ганни Ковальчук (Архів)</title>
-      <link>http://localhost:8080/video/spogady-ganny-kovalchuk</link>
+      <title>Вітаємо матерів-героїнь</title>
+      <link>http://localhost:8080/video/vitayemo-materiv-geroyin</link>
       <pubDate>Thu, 20 Nov 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:8080/video/spogady-ganny-kovalchuk</guid>
+      <guid>http://localhost:8080/video/vitayemo-materiv-geroyin</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/112374674&#34; width=&#34;600&#34;
+  &lt;iframe src=&#34;//player.vimeo.com/video/112394258&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Допомога бійцям АТО</title>
+      <link>http://localhost:8080/video/dopomoga-biytsyam-ato</link>
+      <pubDate>Thu, 20 Nov 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:8080/video/dopomoga-biytsyam-ato</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/112390676&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
@@ -186,19 +199,6 @@
       <guid>http://localhost:8080/video/muzychne-zanyattya-ds-yalynka</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
   &lt;iframe src=&#34;//player.vimeo.com/video/111229228&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Позачергова сесія міської ради від 31 жовтня</title>
-      <link>http://localhost:8080/video/pozachergova-sesiya-miskoyi-rady-vid-31-zhovtnya</link>
-      <pubDate>Tue, 04 Nov 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:8080/video/pozachergova-sesiya-miskoyi-rady-vid-31-zhovtnya</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/110914678&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
