@@ -7,16 +7,42 @@
     
     
     
-    <updated>Thu, 25 Dec 2014 00:00:00 UTC</updated>
+    <updated>Wed, 31 Dec 2014 00:00:00 UTC</updated>
     
     <item>
-      <title>Сесія районної ради 19 грудня</title>
-      <link>http://localhost:8080/video/sesiya-rayonnoyi-rady-19-grudnya</link>
+      <title>Новорічна казка у д/с «Ялинка»</title>
+      <link>http://localhost:8080/video/novorichna-kazka-ds-yalynka</link>
+      <pubDate>Wed, 31 Dec 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:8080/video/novorichna-kazka-ds-yalynka</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/115697099&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Концерт Дві Душі ч.2 (Архів 2007)</title>
+      <link>http://localhost:8080/video/koncert-dvi-dushi-ch2-arhiv-2007</link>
+      <pubDate>Wed, 31 Dec 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:8080/video/koncert-dvi-dushi-ch2-arhiv-2007</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/115697186&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Звернення директора РЕМу до жителів Малинщини</title>
+      <link>http://localhost:8080/video/zverdennya-dyrektora-remu-do-zhyteliv-malynschyny</link>
       <pubDate>Thu, 25 Dec 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:8080/video/sesiya-rayonnoyi-rady-19-grudnya</guid>
+      <guid>http://localhost:8080/video/zverdennya-dyrektora-remu-do-zhyteliv-malynschyny</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/115349146&#34; width=&#34;600&#34;
+  &lt;iframe src=&#34;//player.vimeo.com/video/115376764&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
@@ -36,13 +62,13 @@
     </item>
     
     <item>
-      <title>Звернення директора РЕМу до жителів Малинщини</title>
-      <link>http://localhost:8080/video/zverdennya-dyrektora-remu-do-zhyteliv-malynschyny</link>
+      <title>Сесія районної ради 19 грудня</title>
+      <link>http://localhost:8080/video/sesiya-rayonnoyi-rady-19-grudnya</link>
       <pubDate>Thu, 25 Dec 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:8080/video/zverdennya-dyrektora-remu-do-zhyteliv-malynschyny</guid>
+      <guid>http://localhost:8080/video/sesiya-rayonnoyi-rady-19-grudnya</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/115376764&#34; width=&#34;600&#34;
+  &lt;iframe src=&#34;//player.vimeo.com/video/115349146&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
@@ -88,19 +114,6 @@
     </item>
     
     <item>
-      <title>Українківські вечорниці </title>
-      <link>http://localhost:8080/video/ukrayinkivski-vechornyci</link>
-      <pubDate>Sat, 20 Dec 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:8080/video/ukrayinkivski-vechornyci</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/115053352&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Зустріч П. Дзюблика з підприємцями Малинщини</title>
       <link>http://localhost:8080/video/dzyublyk-pidpriyemci</link>
       <pubDate>Sat, 20 Dec 2014 00:00:00 UTC</pubDate>
@@ -108,6 +121,19 @@
       <guid>http://localhost:8080/video/dzyublyk-pidpriyemci</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
   &lt;iframe src=&#34;//player.vimeo.com/video/115061046&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Українківські вечорниці </title>
+      <link>http://localhost:8080/video/ukrayinkivski-vechornyci</link>
+      <pubDate>Sat, 20 Dec 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:8080/video/ukrayinkivski-vechornyci</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/115053352&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
@@ -173,32 +199,6 @@
       <guid>http://localhost:8080/video/sesiya-rayonnoyi-rady-26-lystopada</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
   &lt;iframe src=&#34;//player.vimeo.com/video/113075731&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Засідання ГО Малинщина</title>
-      <link>http://localhost:8080/video/zasidannya-go-malynschyna</link>
-      <pubDate>Wed, 26 Nov 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:8080/video/zasidannya-go-malynschyna</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/112910115&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>День пам’яті жертв голодомору</title>
-      <link>http://localhost:8080/video/den-pamyati-zhertv-golodomoru</link>
-      <pubDate>Tue, 25 Nov 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:8080/video/den-pamyati-zhertv-golodomoru</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/112800471&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
