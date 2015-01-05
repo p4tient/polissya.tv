@@ -7,7 +7,59 @@
     
     
     
-    <updated>Wed, 31 Dec 2014 00:00:00 UTC</updated>
+    <updated>Mon, 05 Jan 2015 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Спортивний рік завершився</title>
+      <link>http://localhost:8080/video/sportyvnyi-rik-2014-zavershyvsya</link>
+      <pubDate>Mon, 05 Jan 2015 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:8080/video/sportyvnyi-rik-2014-zavershyvsya</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/115970202&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Крок до Олімпу</title>
+      <link>http://localhost:8080/video/krok-do-olimpu</link>
+      <pubDate>Mon, 05 Jan 2015 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:8080/video/krok-do-olimpu</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/115970141&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Щедрий вечір в Малинській РДА</title>
+      <link>http://localhost:8080/video/schedryi-vechir-rda</link>
+      <pubDate>Mon, 05 Jan 2015 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:8080/video/schedryi-vechir-rda</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/115969601&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Лелеки завітали до Малинщини</title>
+      <link>http://localhost:8080/video/leleky-zavitaly-do-malynschyny</link>
+      <pubDate>Mon, 05 Jan 2015 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:8080/video/leleky-zavitaly-do-malynschyny</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/115970305&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Новорічна казка у д/с «Ялинка»</title>
@@ -75,19 +127,6 @@
     </item>
     
     <item>
-      <title>Новорічна ялинка засяяла</title>
-      <link>http://localhost:8080/video/novorichna-yalynka-zasyaala</link>
-      <pubDate>Wed, 24 Dec 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:8080/video/novorichna-yalynka-zasyaala</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/115331278&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Подарунок дітлахам від Святого Миколая та студії Карамель на сцені РБК</title>
       <link>http://localhost:8080/video/podarunok-ditlaham-vid-mykolaya</link>
       <pubDate>Wed, 24 Dec 2014 00:00:00 UTC</pubDate>
@@ -95,6 +134,19 @@
       <guid>http://localhost:8080/video/podarunok-ditlaham-vid-mykolaya</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
   &lt;iframe src=&#34;//player.vimeo.com/video/115327167&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Новорічна ялинка засяяла</title>
+      <link>http://localhost:8080/video/novorichna-yalynka-zasyaala</link>
+      <pubDate>Wed, 24 Dec 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:8080/video/novorichna-yalynka-zasyaala</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/115331278&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
@@ -114,19 +166,6 @@
     </item>
     
     <item>
-      <title>Зустріч П. Дзюблика з підприємцями Малинщини</title>
-      <link>http://localhost:8080/video/dzyublyk-pidpriyemci</link>
-      <pubDate>Sat, 20 Dec 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:8080/video/dzyublyk-pidpriyemci</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/115061046&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Українківські вечорниці </title>
       <link>http://localhost:8080/video/ukrayinkivski-vechornyci</link>
       <pubDate>Sat, 20 Dec 2014 00:00:00 UTC</pubDate>
@@ -140,6 +179,19 @@
     </item>
     
     <item>
+      <title>Зустріч П. Дзюблика з підприємцями Малинщини</title>
+      <link>http://localhost:8080/video/dzyublyk-pidpriyemci</link>
+      <pubDate>Sat, 20 Dec 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:8080/video/dzyublyk-pidpriyemci</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/115061046&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Концерт Дві Душі ч.1 (Архів 2007)</title>
       <link>http://localhost:8080/video/koncert-dvi-dushi-ch1-arhiv-2007</link>
       <pubDate>Thu, 18 Dec 2014 00:00:00 UTC</pubDate>
@@ -147,58 +199,6 @@
       <guid>http://localhost:8080/video/koncert-dvi-dushi-ch1-arhiv-2007</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
   &lt;iframe src=&#34;//player.vimeo.com/video/114762853&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>До Дня місцевого самоврядування</title>
-      <link>http://localhost:8080/video/do-dnya-miscevogo-samovryaduvannya</link>
-      <pubDate>Sat, 06 Dec 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:8080/video/do-dnya-miscevogo-samovryaduvannya</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/113779541&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Благодійний концерт на підтримку батальйону УНСО</title>
-      <link>http://localhost:8080/video/koncert-unso</link>
-      <pubDate>Thu, 04 Dec 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:8080/video/koncert-unso</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/113582100&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Засідання ГО «Малинщина» 2 грудня</title>
-      <link>http://localhost:8080/video/zasidannya-go-malynschyna-2-grudnya</link>
-      <pubDate>Thu, 04 Dec 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:8080/video/zasidannya-go-malynschyna-2-grudnya</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/113582099&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Сесія районної ради від 26 листопада</title>
-      <link>http://localhost:8080/video/sesiya-rayonnoyi-rady-26-lystopada</link>
-      <pubDate>Fri, 28 Nov 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:8080/video/sesiya-rayonnoyi-rady-26-lystopada</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/113075731&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
