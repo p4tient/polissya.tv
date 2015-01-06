@@ -7,7 +7,46 @@
     
     
     
-    <updated>Mon, 05 Jan 2015 00:00:00 UTC</updated>
+    <updated>Tue, 06 Jan 2015 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Нова радість стала</title>
+      <link>http://localhost:8080/video/nova-radist-stala</link>
+      <pubDate>Tue, 06 Jan 2015 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:8080/video/nova-radist-stala</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/116044499&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Лелеки завітали до Малинщини</title>
+      <link>http://localhost:8080/video/leleky-zavitaly-do-malynschyny</link>
+      <pubDate>Mon, 05 Jan 2015 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:8080/video/leleky-zavitaly-do-malynschyny</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/115970305&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Щедрий вечір в Малинській РДА</title>
+      <link>http://localhost:8080/video/schedryi-vechir-rda</link>
+      <pubDate>Mon, 05 Jan 2015 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:8080/video/schedryi-vechir-rda</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/115969601&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Крок до Олімпу</title>
@@ -36,26 +75,13 @@
     </item>
     
     <item>
-      <title>Щедрий вечір в Малинській РДА</title>
-      <link>http://localhost:8080/video/schedryi-vechir-rda</link>
-      <pubDate>Mon, 05 Jan 2015 00:00:00 UTC</pubDate>
+      <title>Концерт Дві Душі ч.2 (Архів 2007)</title>
+      <link>http://localhost:8080/video/koncert-dvi-dushi-ch2-arhiv-2007</link>
+      <pubDate>Wed, 31 Dec 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:8080/video/schedryi-vechir-rda</guid>
+      <guid>http://localhost:8080/video/koncert-dvi-dushi-ch2-arhiv-2007</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/115969601&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Лелеки завітали до Малинщини</title>
-      <link>http://localhost:8080/video/leleky-zavitaly-do-malynschyny</link>
-      <pubDate>Mon, 05 Jan 2015 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:8080/video/leleky-zavitaly-do-malynschyny</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/115970305&#34; width=&#34;600&#34;
+  &lt;iframe src=&#34;//player.vimeo.com/video/115697186&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
@@ -75,19 +101,6 @@
     </item>
     
     <item>
-      <title>Концерт Дві Душі ч.2 (Архів 2007)</title>
-      <link>http://localhost:8080/video/koncert-dvi-dushi-ch2-arhiv-2007</link>
-      <pubDate>Wed, 31 Dec 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:8080/video/koncert-dvi-dushi-ch2-arhiv-2007</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/115697186&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Малинщина готується до відключень електроенергії</title>
       <link>http://localhost:8080/video/malynschyna-gotuetsya-do-vidklyuchen-elektroenergiyi</link>
       <pubDate>Thu, 25 Dec 2014 00:00:00 UTC</pubDate>
@@ -95,19 +108,6 @@
       <guid>http://localhost:8080/video/malynschyna-gotuetsya-do-vidklyuchen-elektroenergiyi</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
   &lt;iframe src=&#34;//player.vimeo.com/video/115377546&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Сесія районної ради 19 грудня</title>
-      <link>http://localhost:8080/video/sesiya-rayonnoyi-rady-19-grudnya</link>
-      <pubDate>Thu, 25 Dec 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:8080/video/sesiya-rayonnoyi-rady-19-grudnya</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/115349146&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
@@ -127,13 +127,13 @@
     </item>
     
     <item>
-      <title>Новорічна ялинка засяяла</title>
-      <link>http://localhost:8080/video/novorichna-yalynka-zasyaala</link>
-      <pubDate>Wed, 24 Dec 2014 00:00:00 UTC</pubDate>
+      <title>Сесія районної ради 19 грудня</title>
+      <link>http://localhost:8080/video/sesiya-rayonnoyi-rady-19-grudnya</link>
+      <pubDate>Thu, 25 Dec 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:8080/video/novorichna-yalynka-zasyaala</guid>
+      <guid>http://localhost:8080/video/sesiya-rayonnoyi-rady-19-grudnya</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/115331278&#34; width=&#34;600&#34;
+  &lt;iframe src=&#34;//player.vimeo.com/video/115349146&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
@@ -153,6 +153,19 @@
     </item>
     
     <item>
+      <title>Новорічна ялинка засяяла</title>
+      <link>http://localhost:8080/video/novorichna-yalynka-zasyaala</link>
+      <pubDate>Wed, 24 Dec 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:8080/video/novorichna-yalynka-zasyaala</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/115331278&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Роботу над помилками запропонували уряду Малинські освітяни</title>
       <link>http://localhost:8080/video/mityng-osvityan</link>
       <pubDate>Tue, 23 Dec 2014 00:00:00 UTC</pubDate>
@@ -160,19 +173,6 @@
       <guid>http://localhost:8080/video/mityng-osvityan</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
   &lt;iframe src=&#34;//player.vimeo.com/video/115279251&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Українківські вечорниці </title>
-      <link>http://localhost:8080/video/ukrayinkivski-vechornyci</link>
-      <pubDate>Sat, 20 Dec 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:8080/video/ukrayinkivski-vechornyci</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/115053352&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
@@ -192,13 +192,13 @@
     </item>
     
     <item>
-      <title>Концерт Дві Душі ч.1 (Архів 2007)</title>
-      <link>http://localhost:8080/video/koncert-dvi-dushi-ch1-arhiv-2007</link>
-      <pubDate>Thu, 18 Dec 2014 00:00:00 UTC</pubDate>
+      <title>Українківські вечорниці </title>
+      <link>http://localhost:8080/video/ukrayinkivski-vechornyci</link>
+      <pubDate>Sat, 20 Dec 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:8080/video/koncert-dvi-dushi-ch1-arhiv-2007</guid>
+      <guid>http://localhost:8080/video/ukrayinkivski-vechornyci</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/114762853&#34; width=&#34;600&#34;
+  &lt;iframe src=&#34;//player.vimeo.com/video/115053352&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
