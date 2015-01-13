@@ -7,7 +7,33 @@
     
     
     
-    <updated>Tue, 06 Jan 2015 00:00:00 UTC</updated>
+    <updated>Tue, 13 Jan 2015 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Щедрий вечір, добрий вечір (Архів 2011р.)</title>
+      <link>http://localhost:8080/video/schedryi-vechir-dobryi-vechir-2011</link>
+      <pubDate>Tue, 13 Jan 2015 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:8080/video/schedryi-vechir-dobryi-vechir-2011</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/116662937&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Різдвяні зустрічі (Архів 2014р.)</title>
+      <link>http://localhost:8080/video/rizdvyani-zustrichi-2014</link>
+      <pubDate>Tue, 13 Jan 2015 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:8080/video/rizdvyani-zustrichi-2014</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/116664101&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Нова радість стала</title>
@@ -17,32 +43,6 @@
       <guid>http://localhost:8080/video/nova-radist-stala</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
   &lt;iframe src=&#34;//player.vimeo.com/video/116044499&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Лелеки завітали до Малинщини</title>
-      <link>http://localhost:8080/video/leleky-zavitaly-do-malynschyny</link>
-      <pubDate>Mon, 05 Jan 2015 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:8080/video/leleky-zavitaly-do-malynschyny</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/115970305&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Щедрий вечір в Малинській РДА</title>
-      <link>http://localhost:8080/video/schedryi-vechir-rda</link>
-      <pubDate>Mon, 05 Jan 2015 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:8080/video/schedryi-vechir-rda</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/115969601&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
@@ -62,6 +62,19 @@
     </item>
     
     <item>
+      <title>Лелеки завітали до Малинщини</title>
+      <link>http://localhost:8080/video/leleky-zavitaly-do-malynschyny</link>
+      <pubDate>Mon, 05 Jan 2015 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:8080/video/leleky-zavitaly-do-malynschyny</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/115970305&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Спортивний рік завершився</title>
       <link>http://localhost:8080/video/sportyvnyi-rik-2014-zavershyvsya</link>
       <pubDate>Mon, 05 Jan 2015 00:00:00 UTC</pubDate>
@@ -69,6 +82,32 @@
       <guid>http://localhost:8080/video/sportyvnyi-rik-2014-zavershyvsya</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
   &lt;iframe src=&#34;//player.vimeo.com/video/115970202&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Щедрий вечір в Малинській РДА</title>
+      <link>http://localhost:8080/video/schedryi-vechir-rda</link>
+      <pubDate>Mon, 05 Jan 2015 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:8080/video/schedryi-vechir-rda</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/115969601&#34; width=&#34;600&#34;
+    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Новорічна казка у д/с «Ялинка»</title>
+      <link>http://localhost:8080/video/novorichna-kazka-ds-yalynka</link>
+      <pubDate>Wed, 31 Dec 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:8080/video/novorichna-kazka-ds-yalynka</guid>
+      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/115697099&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
@@ -88,13 +127,13 @@
     </item>
     
     <item>
-      <title>Новорічна казка у д/с «Ялинка»</title>
-      <link>http://localhost:8080/video/novorichna-kazka-ds-yalynka</link>
-      <pubDate>Wed, 31 Dec 2014 00:00:00 UTC</pubDate>
+      <title>Сесія районної ради 19 грудня</title>
+      <link>http://localhost:8080/video/sesiya-rayonnoyi-rady-19-grudnya</link>
+      <pubDate>Thu, 25 Dec 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:8080/video/novorichna-kazka-ds-yalynka</guid>
+      <guid>http://localhost:8080/video/sesiya-rayonnoyi-rady-19-grudnya</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/115697099&#34; width=&#34;600&#34;
+  &lt;iframe src=&#34;//player.vimeo.com/video/115349146&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
@@ -127,13 +166,13 @@
     </item>
     
     <item>
-      <title>Сесія районної ради 19 грудня</title>
-      <link>http://localhost:8080/video/sesiya-rayonnoyi-rady-19-grudnya</link>
-      <pubDate>Thu, 25 Dec 2014 00:00:00 UTC</pubDate>
+      <title>Подарунок дітлахам від Святого Миколая та студії Карамель на сцені РБК</title>
+      <link>http://localhost:8080/video/podarunok-ditlaham-vid-mykolaya</link>
+      <pubDate>Wed, 24 Dec 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:8080/video/sesiya-rayonnoyi-rady-19-grudnya</guid>
+      <guid>http://localhost:8080/video/podarunok-ditlaham-vid-mykolaya</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/115349146&#34; width=&#34;600&#34;
+  &lt;iframe src=&#34;//player.vimeo.com/video/115327167&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
@@ -153,19 +192,6 @@
     </item>
     
     <item>
-      <title>Подарунок дітлахам від Святого Миколая та студії Карамель на сцені РБК</title>
-      <link>http://localhost:8080/video/podarunok-ditlaham-vid-mykolaya</link>
-      <pubDate>Wed, 24 Dec 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:8080/video/podarunok-ditlaham-vid-mykolaya</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/115327167&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Роботу над помилками запропонували уряду Малинські освітяни</title>
       <link>http://localhost:8080/video/mityng-osvityan</link>
       <pubDate>Tue, 23 Dec 2014 00:00:00 UTC</pubDate>
@@ -173,32 +199,6 @@
       <guid>http://localhost:8080/video/mityng-osvityan</guid>
       <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
   &lt;iframe src=&#34;//player.vimeo.com/video/115279251&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Зустріч П. Дзюблика з підприємцями Малинщини</title>
-      <link>http://localhost:8080/video/dzyublyk-pidpriyemci</link>
-      <pubDate>Sat, 20 Dec 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:8080/video/dzyublyk-pidpriyemci</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/115061046&#34; width=&#34;600&#34;
-    height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Українківські вечорниці </title>
-      <link>http://localhost:8080/video/ukrayinkivski-vechornyci</link>
-      <pubDate>Sat, 20 Dec 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:8080/video/ukrayinkivski-vechornyci</guid>
-      <description>&lt;div class=&#34;embed vimeo-player&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/115053352&#34; width=&#34;600&#34;
     height=&#34;338&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
